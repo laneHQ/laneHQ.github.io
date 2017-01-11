@@ -1,0 +1,19 @@
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#9664FF" offset="0%"></stop>
+            <stop stop-color="#6F49FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.39158163%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.69" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-4" fill="url(#linearGradient-1)" cx="50" cy="50" r="50"></circle>
+        <path d="M40.8602301,21.8637993 L58.781377,21.8637993 C58.781377,21.8637993 58.781377,34.1423221 63.7166326,45.6303355 C68.6518882,57.118349 77.1501589,65.5944824 77.1501589,65.5944824 L64.5110776,78.2504562 C64.5110776,78.2504562 54.2078396,68.7657691 47.4989109,53.024303 C40.7899821,37.2828368 40.8602301,21.8637993 40.8602301,21.8637993 Z" id="Rectangle-5" fill="url(#linearGradient-2)"></path>
+        <path d="M58.7975369,21.8637993 L40.8916605,21.8637993 C40.8916605,21.8637993 40.9068789,34.1423221 35.9883023,45.6303355 C31.0680195,57.118349 22.5806452,65.5944824 22.5806452,65.5944824 L35.2318682,78.2504562 C35.2318682,78.2504562 45.52266,68.7657691 52.208424,53.024303 C58.8910098,37.2828368 58.7975369,21.8637993 58.7975369,21.8637993 Z" id="Rectangle-5" fill="url(#linearGradient-2)"></path>
+    </g>
+</svg>
